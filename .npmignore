@@ -1,0 +1,8 @@
+node_modules/
+lib/
+docs/
+coverage/
+.nyc_output/
+.vscode/
+test/
+dist/example/
