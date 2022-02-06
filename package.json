@@ -1,7 +1,7 @@
 {
   "name": "@manladag/core",
   "version": "0.0.1",
-  "description": "manladag parent class",
+  "description": "Manladag core is used to download your favorite manga",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zepoze/manladag-source.git"
+    "url": "git+https://github.com/Zepoze/manladag-core.git"
   },
   "author": "zepoze",
   "license": "SEE LICENSE IN ./LICENSE",
   "bugs": {
-    "url": "https://github.com/Zepoze/manladag-source/issues"
+    "url": "https://github.com/Zepoze/manladag-core/issues"
   },
-  "homepage": "https://github.com/Zepoze/manladag-source#readme",
+  "homepage": "https://github.com/Zepoze/manladag-core#readme",
   "devDependencies": {
     "@types/adm-zip": "^0.4.33",
     "@types/axios": "^0.14.0",
