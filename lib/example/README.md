@@ -1,7 +1,7 @@
 # Create your own Core's Library
 ## Agreement
 ### Export
-In order to be able to use your library properly with **@manladag/source** you have to implement your code logic as a **Manladag source interface** and export it in the following way:
+In order to be able to use your library properly with **@manladag/core** you have to implement your code logic as a **Manladag Lib core interface** and export it in the following way:
 
 ```typescript
 
@@ -40,7 +40,7 @@ $ npm install jsdom
 #### Typescript +
 
 ```bash
-$ npm install --save-dev typescript @types/jsdom @types/adm-zip @manladag/source
+$ npm install --save-dev typescript @types/jsdom @types/adm-zip @manladag/core
 $ touch tsconfig.json
 ```
 

@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## Fixed
+- Fix lib/example/README.md in order to make it more understandable 
+
 ## 0.0.1 2022-02-06
 
 ### Added
