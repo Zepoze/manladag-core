@@ -11,7 +11,7 @@
     "cover": "nyc --reporter=lcov npm test",
     "typedoc": "typedoc", 
     "preexample": "npm run build",
-    "example": "node ./dist/example/index.js",
+    "example": "ts-node example/index.ts",
     "prepublishOnly": "tsc"
   },
   "repository": {

@@ -1,5 +1,5 @@
 // Check that you have an internet connection
-import {ChapterDownloaderFlags,ManladagCore} from "../."
+import {ChapterDownloaderFlags,ManladagCore} from "../lib"
 
 import {Lib as MyLib} from "./myLib"
 
