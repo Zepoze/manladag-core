@@ -1,4 +1,4 @@
-import {Manladag} from '../index';
+import {Manladag} from '../lib/index';
 // replace '../lib/index' with '@manladag/core'
 interface MyLibManga extends Manladag.LibManga {
   colorType: 'classic' | 'fullColor'

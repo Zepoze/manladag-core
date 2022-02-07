@@ -66,7 +66,8 @@
 
   "exclude": ["./test/",
     "./node_modules/",
-    "./dist/"],
+    "./dist/",
+    "example/"],
   "typedocOptions": {
     "entryPoints": [
       "lib/index.ts",
