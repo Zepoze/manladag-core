@@ -16,7 +16,7 @@
     "dist/",
     "docs/",
     "test/",
-    "lib/example"
+    "example"
   ],
   "sourceMap": true,
   "reporter": [
