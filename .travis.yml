@@ -8,5 +8,3 @@ script:
  - npm run cover
 # Send coverage data to Coveralls
 after_script: "cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
-after_success:
-  - "npm run typedoc && ./node_modules/surge/lib/cli.js --project ./docs --domain manladag.surge.sh"

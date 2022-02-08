@@ -9,7 +9,7 @@
     "test": "cross-env TS_NODE_FILES=true nyc mocha --exit --require ts-node/register --colors test/**/*.ts",
     "build": "tsc",
     "cover": "nyc --reporter=lcov npm test",
-    "typedoc": "typedoc", 
+    "typedoc": "typedoc",
     "preexample": "npm run build",
     "example": "ts-node example/index.ts",
     "prepublishOnly": "tsc"
@@ -53,7 +53,6 @@
     "rimraf": "^3.0.2",
     "sinon": "^12.0.1",
     "sinon-chai": "^3.7.0",
-    "surge": "^0.23.1",
     "ts-node": "^10.4.0",
     "typedoc": "^0.22.10",
     "typedoc-plugin-rename-defaults": "^0.4.0",

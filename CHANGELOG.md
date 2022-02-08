@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Changed
 - Logic about example folder : lib/example -> example/ and ts-node to run it
 
+## Removed
+- Surge use on Travis
+
 ## 0.0.1 2022-02-06
 
 ### Added
