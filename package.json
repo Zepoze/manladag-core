@@ -8,7 +8,7 @@
     "docs": "typedoc --tsconfig tsconfig.json",
     "test": "cross-env TS_NODE_FILES=true nyc mocha --exit --require ts-node/register --colors test/**/*.ts",
     "build": "tsc",
-    "cover": "nyc --reporter=lcov npm test",
+    "cover": "nyc npm test",
     "typedoc": "typedoc",
     "preexample": "npm run build",
     "example": "ts-node example/index.ts",
