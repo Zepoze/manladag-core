@@ -41,7 +41,7 @@ In this example the library Source Lelscan was used to download the last chapter
 
 
 
-- [Github/manladag-lelscanv](https://github.com/Zepoze/manladag-lelscanv) -> [Web](https://lelscanv.com/)
+- [Lelscan](https://github.com/Zepoze/manladag-core-lelscan) -> [Web](https://lelscans.net/)
 
 >Your favorite library is missing ? create your own lib !
 
@@ -49,7 +49,7 @@ In this example the library Source Lelscan was used to download the last chapter
 
 
 
-# ManladagSource API
+# Manladag Core API
 Visit the [api web][1]
 
 
