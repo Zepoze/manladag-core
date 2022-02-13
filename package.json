@@ -6,7 +6,7 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "docs": "typedoc --tsconfig tsconfig.json",
-    "test": "cross-env TS_NODE_FILES=true nyc mocha --exit --require ts-node/register --colors test/**/*.ts",
+    "test": "cross-env TS_NODE_FILES=true mocha --exit --require ts-node/register --colors test/**/*.ts",
     "build": "tsc",
     "cover": "nyc npm test",
     "typedoc": "typedoc",

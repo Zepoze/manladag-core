@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Logic about example folder : lib/example -> example/ and ts-node to run it
 - Reword README and CHANGELOG
 - Change cover script approach
+- Change test script approach
 
 ### Removed
 - Surge use on Travis
