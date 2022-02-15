@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/Zepoze/manladag-core#readme",
   "devDependencies": {
-    "@types/adm-zip": "^0.4.33",
     "@types/axios": "^0.14.0",
     "@types/chai-as-promised": "^7.1.4",
     "@types/chai-fs": "^2.0.2",
@@ -59,7 +58,8 @@
     "typescript": "^4.5.4"
   },
   "dependencies": {
-    "adm-zip": "^0.5.2",
+    "@types/adm-zip": "^0.4.34",
+    "adm-zip": "^0.5.9",
     "axios": "^0.24.0"
   }
 }
