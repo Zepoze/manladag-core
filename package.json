@@ -1,6 +1,6 @@
 {
   "name": "@manladag/core",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Manladag core is used to download your favorite manga",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
